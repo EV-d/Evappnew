@@ -26,4 +26,22 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="as"
+        android:id="@+id/dasd"
+        android:layout_above="@+id/asdasd"
+        android:layout_alignLeft="@+id/asdasd"
+        android:layout_alignStart="@+id/asdasd" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New RadioButton"
+        android:id="@+id/radioButton"
+        android:layout_above="@+id/dasd"
+        android:layout_alignLeft="@+id/dasd"
+        android:layout_alignStart="@+id/dasd" />
+
 </RelativeLayout>
