@@ -44,4 +44,13 @@
         android:layout_alignLeft="@+id/dasd"
         android:layout_alignStart="@+id/dasd" />
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:layout_below="@+id/asdasd"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
