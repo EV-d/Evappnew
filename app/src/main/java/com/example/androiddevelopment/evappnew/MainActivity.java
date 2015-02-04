@@ -4,12 +4,10 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Button;
 
-// iam Haitham
+
 public class MainActivity extends ActionBarActivity {
-   Button t;
-    Button de;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
